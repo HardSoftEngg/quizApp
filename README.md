@@ -21,13 +21,10 @@ The app can be accessed by a simple click-
 
 ## Screenshots
 
-![Image 1](../screenshot/screenshot1.png)
+![Image 1](../screenshot/Screenshot1.png)
 
-![Image 2](../screenshot/screenshot2.png)
+![Image 2](../screenshot/Screenshot2.png)
 
-![Image 3](../screenshot/screenshot3.png)
+![Image 3](../screenshot/Screenshot3.png)
 
-![Image 4](../screenshot/screenshot4.png)
-
-
-
+![Image 4](../screenshot/Screenshot4.png)
