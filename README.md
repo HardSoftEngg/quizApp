@@ -12,3 +12,9 @@ This is a simple quiz app built with vanilla JavaScript with HTML and CSS. The a
 - Immediate feedback on the correctness of each answer.
 - Users can navigate to the next question after answering.
 - Scores are displayed at the end of the quiz.
+- App has favicon
+
+## Access
+ [click here](www.google.com)
+[try it](https://bitscurrent.github.io/quizApp/)
+
