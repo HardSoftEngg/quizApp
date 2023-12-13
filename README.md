@@ -15,6 +15,19 @@ This is a simple quiz app built with vanilla JavaScript with HTML and CSS. The a
 - App has favicon
 
 ## Access
- [click here](www.google.com)
+
+The app can be accessed by a simple click-
 [try it](https://bitscurrent.github.io/quizApp/)
+
+## Screenshots
+
+![Image 1](../screenshot/screenshot1.png)
+
+![Image 2](../screenshot/screenshot2.png)
+
+![Image 3](../screenshot/screenshot3.png)
+
+![Image 4](../screenshot/screenshot4.png)
+
+
 
